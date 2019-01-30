@@ -49,8 +49,8 @@ for (var i = 0; i < styles.length; i++) {
 }
 
 
-/* PUBLISH */
-console.log('Publishing to npm');
-require('child_process').execSync('npm publish .', {
-  stdio: 'inherit'
-});
+ /* PUBLISH */
+// console.log('Publishing to npm');
+// require('child_process').execSync('npm publish .', {
+//  stdio: 'inherit'
+// });
