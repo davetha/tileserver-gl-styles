@@ -4,10 +4,11 @@
   "description": "Default styles for TileServer-GL",
   "authors": [
     "Petr Pridal <petr.pridal@klokantech.com>",
-    "Petr Sloup <petr.sloup@klokantech.com>"
+    "Petr Sloup <petr.sloup@klokantech.com>",
+    "Dylan Cooper <dylan@stanforddigital.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bit-chemist/tileserver-gl-styles.git"
+    "url": "https://github.com/Rapid-Imaging-Tech/tileserver-gl-styles.git"
   }
 }
